@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantoshAsole
-- 👀 I’m interested in ... Freelancer, Android App Development, Data Science, PHP, Laravel, Codingitor, JavaScript, Web Development
+- 👀 I’m interested in ... Freelancer, PHP, Laravel, Codingitor, JavaScript, Web Development
 - 🌱 I’m currently learning ... Android App Development, Data Science
 - 💞️ I’m looking to collaborate on ... Web Development
 - 📫 How to reach me ... Email: santoshaasole9@gmail.com
